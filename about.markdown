@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Andrea theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi ya, sorry I can't take your call at the moment, if you leave your number I'll get back you when I can!!
+
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
